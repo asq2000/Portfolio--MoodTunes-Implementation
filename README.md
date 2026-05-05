@@ -18,9 +18,9 @@ MoodTunes finds the soundtrack that fits.
 
 | File | Description |
 |------|-------------|
-| [`MoodTunes Mobile App Prototype.make`](MoodTunes%20Mobile%20App%20Prototype.make) | Figma/Makefile interactive prototype |
-| [`MoodTunes_ Implementation.pdf`](MoodTunes_%20Implementation.pdf) | Full implementation report & design documentation |
-| [`MoodTunes_Implementation-Video`](MoodTunes_Implementation-Video) | Demo walkthrough video of the app prototype |
+| [`MoodTunes Mobile App Prototype.make`](MoodTunes-Implementation/MoodTunes%20Mobile%20App%20Prototype.make) | Figma/Makefile interactive prototype |
+| [`MoodTunes_ Implementation.pdf`](MoodTunes-Implementation/MoodTunes_%20Implementation.pdf) | Full implementation report & design documentation |
+| [`MoodTunes_Implementation-Video`](MoodTunes-Implementation/MoodTunes_Implementation-Vid...) | Demo walkthrough video of the app prototype |
 
 ---
 
@@ -61,7 +61,7 @@ MoodTunes finds the soundtrack that fits.
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/asq2000/MoodTunes-Implementation.git
+   git clone https://github.com/asq2000/Portfolio--MoodTunes-Implementation.git
 ```
 2. Open the PDF report for full design documentation
 3. Watch the demo video for a live walkthrough of the prototype
