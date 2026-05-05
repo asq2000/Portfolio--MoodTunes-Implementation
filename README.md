@@ -20,7 +20,7 @@ MoodTunes finds the soundtrack that fits.
 |------|-------------|
 | [`MoodTunes Mobile App Prototype.make`](MoodTunes-Implementation/MoodTunes%20Mobile%20App%20Prototype.make) | Figma/Makefile interactive prototype |
 | [`MoodTunes_ Implementation.pdf`](MoodTunes-Implementation/MoodTunes_%20Implementation.pdf) | Full implementation report & design documentation |
-| [`MoodTunes_Implementation-Video`](MoodTunes-Implementation/MoodTunes_Implementation-Vid...) | Demo walkthrough video of the app prototype |
+| [`MoodTunes_Implementation-Video.mov`](MoodTunes-Implementation/MoodTunes_Implementation-Video.mov) | Demo walkthrough video (download to view) |
 
 ---
 
@@ -40,9 +40,9 @@ MoodTunes finds the soundtrack that fits.
 
 ---
 
-## 🎬 Demo
+## 🎬 Demo Video
 
-> 📹 See `MoodTunes_Implementation-Video` in the repository for a full walkthrough of the prototype.
+> 📹 [Watch Demo on Google Drive]() — *add your link here*
 
 ---
 
@@ -64,7 +64,7 @@ MoodTunes finds the soundtrack that fits.
    git clone https://github.com/asq2000/Portfolio--MoodTunes-Implementation.git
 ```
 2. Open the PDF report for full design documentation
-3. Watch the demo video for a live walkthrough of the prototype
+3. Watch the demo video on Google Drive
 
 ---
 
